@@ -1,0 +1,12 @@
+
+
+h2{color: blue;}
+h3{color: yellow;}
+h4{color: green;}
+h5{color: orange;}
+
+body{background-image: url(../images/background.jpg);
+background-repeat: no-repeat;
+background-size:cover;}
+
+table{background-color: skyblue;}
